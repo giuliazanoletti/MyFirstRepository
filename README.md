@@ -1,6 +1,5 @@
 # MyFirstRepository
-$("#main").append(Giulia Zanoletti);
--var bio = {};		
+-var bio = {};	$("#main").append(Giulia Zanoletti);	
 -var work = {};		
 -var education = {};		
 -var projects = {};		
